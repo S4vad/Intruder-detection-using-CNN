@@ -10,8 +10,8 @@ This project demonstrates the implementation of an Intruder Detection System usi
 - Easy integration with existing security systems and cameras.
 
 ## Installation
-1. Clone this repository: `git clone https://github.com/yourusername/intruder-detection.git`
-2. Navigate to the project directory: `cd intruder-detection`
+1. Clone this repository: `git clone [https://github.com/yourusername/intruder-detection.git](https://github.com/S4vad/Intruder-detection-using-CNN.git)`
+2. Navigate to the project directory: `cd intruder-detection-using-CNN`
 3. Install required dependencies: `pip install -r requirements.txt`
 
 ## Usage
@@ -21,7 +21,6 @@ This project demonstrates the implementation of an Intruder Detection System usi
 4. The processed video will be saved with annotations for review.
 
 ## Configuration
-- You can adjust detection sensitivity and other parameters in the `config.json` file.
 - Fine-tune the model and retrain it on your dataset for specific use cases.
 
 ## Results
